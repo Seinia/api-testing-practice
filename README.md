@@ -57,17 +57,17 @@
 Additional tests can be implemented to test **CRUD operations** for the `https://jsonplaceholder.typicode.com/users` resource:
 
 1. **Create a User (POST)**:
-   - Send a POST request to create a new user.
+   - Send a POST request to create a new post.
    - Validate the response status code and body.
 
 2. **Read a User (GET)**:
-   - Send a GET request to retrieve a specific user.
+   - Send a GET request to retrieve a specific post.
    - Validate the response status code and body.
 
 3. **Update a User (PUT)**:
-   - Send a PUT request to update an existing user.
+   - Send a PUT request to update an existing post.
    - Validate the response status code and body.
 
 4. **Delete a User (DELETE)**:
-   - Send a DELETE request to remove a user.
+   - Send a DELETE request to remove a post.
    - Validate the response status code.
